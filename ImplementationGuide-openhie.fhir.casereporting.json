@@ -1112,6 +1112,17 @@
               "extension": [
                 {
                   "url": "http://hl7.org/fhir/tools/StructureDefinition/ig-page-name",
+                  "valueUrl": "data-models.html"
+                }
+              ],
+              "nameUrl": "data-models.html",
+              "title": "Data Models",
+              "generation": "markdown"
+            },
+            {
+              "extension": [
+                {
+                  "url": "http://hl7.org/fhir/tools/StructureDefinition/ig-page-name",
                   "valueUrl": "actors.html"
                 }
               ],
