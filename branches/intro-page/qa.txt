@@ -3,7 +3,7 @@
 
 err = 16, warn = 15, info = 39
 IG Publisher Version: 1.2.12
-Generated Tue Nov 01 11:33:54 UTC 2022. FHIR version 4.0.1 for openhie.fhir.casereporting#0.1.0 (canonical = http://openhie.org/fhir)
+Generated Tue Nov 01 11:56:14 UTC 2022. FHIR version 4.0.1 for openhie.fhir.casereporting#0.1.0 (canonical = http://openhie.org/fhir)
  Build Errors : 8 / 4 / 0
  /github/workspace/fsh-generated/resources/CodeSystem-cs-hiv-risk-behavior : 2 / 2 / 2
  /github/workspace/fsh-generated/resources/CodeSystem-cs-patient-gender : 2 / 2 / 2
@@ -19,8 +19,8 @@ ERROR: /github/workspace/output/ValueSet-hiv-transmission-route.html#/html/body/
 ERROR: /github/workspace/output/actors.html#/html/body/div/div/div/div/div/div/a at Line 230, column 357: The link 'expected_actions.html' for "three options" cannot be resolved
 ERROR: /github/workspace/output/how-to-read.html#/html/body/div/div/div/div/div/p/a at Line 240, column 5: The link 'data_exchange' for "Data Models and Exchange" cannot be resolved
 ERROR: /github/workspace/output/index.html#/html/body/div/div/div/div/div/div/p/a at Line 261, column 180: The link 'usecase_1.html' for "public health response" cannot be resolved
-ERROR: /github/workspace/output/transactions.html#/html/body/div/div/div/div/div/div/p/a at Line 215, column 192: The link '#maturity' for "maturity levels." cannot be resolved (valid targets: [submit-case-report, project-logo, segment-header, project-nav, publish-box, transaction_2, transaction_1, segment-post-footer, transaction-submit-case-report, transactions, family-logo, f2laehskdsjr7, family-nav, ig-status, 1, 2, top, stripe, segment-footer, segment-navbar, transaction-store-case-report, segment-content, segment-breadcrumb, store-case-report])
-ERROR: /github/workspace/output/transactions.html#/html/body/div/div/div/div/div/div/p/a at Line 217, column 22: The link '#actors' for "actors" cannot be resolved (valid targets: [submit-case-report, project-logo, segment-header, project-nav, publish-box, transaction_2, transaction_1, segment-post-footer, transaction-submit-case-report, transactions, family-logo, f2laehskdsjr7, family-nav, ig-status, 1, 2, top, stripe, segment-footer, segment-navbar, transaction-store-case-report, segment-content, segment-breadcrumb, store-case-report])
+ERROR: /github/workspace/output/transactions.html#/html/body/div/div/div/div/div/div/p/a at Line 215, column 192: The link '#maturity' for "maturity levels." cannot be resolved (valid targets: [submit-case-report, project-logo, segment-header, project-nav, publish-box, transaction_2, transaction_1, segment-post-footer, transaction-submit-case-report, transactions, family-logo, f1s0o0466j97zz, family-nav, ig-status, 1, 2, top, stripe, segment-footer, segment-navbar, transaction-store-case-report, segment-content, segment-breadcrumb, store-case-report])
+ERROR: /github/workspace/output/transactions.html#/html/body/div/div/div/div/div/div/p/a at Line 217, column 22: The link '#actors' for "actors" cannot be resolved (valid targets: [submit-case-report, project-logo, segment-header, project-nav, publish-box, transaction_2, transaction_1, segment-post-footer, transaction-submit-case-report, transactions, family-logo, f1s0o0466j97zz, family-nav, ig-status, 1, 2, top, stripe, segment-footer, segment-navbar, transaction-store-case-report, segment-content, segment-breadcrumb, store-case-report])
 ERROR: /github/workspace/output/transactions.html#/html/body/div/div/div/div/div/div/p/a at Line 241, column 400: The link 'expected_actions.html' for "expected actions" cannot be resolved
 WARNING: 1: The HTML fragment 'ip-statements.xhtml' is not included anywhere in the produced implementation guide
 WARNING: 2: The HTML fragment 'cross-version-analysis.xhtml' is not included anywhere in the produced implementation guide

@@ -720,6 +720,14 @@
         </page>
         <page>
           <extension url="http://hl7.org/fhir/tools/StructureDefinition/ig-page-name">
+            <valueUrl value="data-models.html"/>
+          </extension>
+          <nameUrl value="data-models.html"/>
+          <title value="Data Models"/>
+          <generation value="markdown"/>
+        </page>
+        <page>
+          <extension url="http://hl7.org/fhir/tools/StructureDefinition/ig-page-name">
             <valueUrl value="actors.html"/>
           </extension>
           <nameUrl value="actors.html"/>
